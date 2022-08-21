@@ -1,5 +1,4 @@
-(https://res.cloudinary.com/dzi34bvpv/image/upload/v1661102907/File_icnpo5.jpg)
-
+![](https://res.cloudinary.com/dzi34bvpv/image/upload/v1661102907/File_icnpo5.jpg)
 
 ```const joyceJewell = {
   title: "Break / Fix Engineer",
@@ -12,5 +11,11 @@
     other: ["Mountain and Gravel Biking", "Walking around outdoors", "Completing Tasks", "Thriving with OCD & Anxiety"],
   },
 };
+
+
+
+
+
+
 
 

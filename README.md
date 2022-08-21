@@ -1,6 +1,7 @@
 ![](https://res.cloudinary.com/dzi34bvpv/image/upload/v1661102907/File_icnpo5.jpg)
 
-```const joyceJewell = {
+```
+const joyceJewell = {
   title: "Break / Fix Engineer",
   location: "Highlands Ranch, Colorado",
   age: "Redacted",

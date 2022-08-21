@@ -8,6 +8,6 @@
     languages: ["JavaScript", "Ruby", "Java", "HTML", "CSS"],
     frameworks: ["Rails", "Vue", "React"],
     backend: ["SQL", "mySQL", "Postgres"],
-    other: ["Mountain and Gravel Biking", "Walking around outdoors", "Completing Tasks", "Thriving with OCD & Anxiety"],
+    other: ["Biking (trail & gravel)", "Walking around outdoors", "Completing Tasks", "Thriving with OCD & Anxiety"],
   },
 };

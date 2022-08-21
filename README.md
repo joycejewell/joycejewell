@@ -11,11 +11,3 @@
     other: ["Mountain and Gravel Biking", "Walking around outdoors", "Completing Tasks", "Thriving with OCD & Anxiety"],
   },
 };
-
-
-
-
-
-
-
-

@@ -2,7 +2,7 @@
 
 ```
 const joyceJewell = {
-  title: "Break / Fix Engineer",
+  title: "Operations Engineer",
   location: "Highlands Ranch, Colorado",
   age: "Redacted",
   skills: {
